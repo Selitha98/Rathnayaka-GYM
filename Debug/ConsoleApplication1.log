@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\selitha sasmitha\desktop\finalcode\consoleapplication1\consoleapplication1\source.cpp(668): warning C4129: ' ': unrecognized character escape sequence
+c:\users\selitha sasmitha\desktop\finalcode\consoleapplication1\consoleapplication1\source.cpp(703): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\selitha sasmitha\desktop\finalcode\consoleapplication1\consoleapplication1\source.cpp(716): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\selitha sasmitha\desktop\finalcode\consoleapplication1\consoleapplication1\source.cpp(484): warning C4717: 'AdminMenu': recursive on all control paths, function will cause runtime stack overflow
+c:\users\selitha sasmitha\desktop\finalcode\consoleapplication1\consoleapplication1\source.cpp(561): warning C4717: 'CashierMenu': recursive on all control paths, function will cause runtime stack overflow
+  ConsoleApplication1.vcxproj -> C:\Users\Selitha Sasmitha\Desktop\fINALCODE\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Selitha Sasmitha\Desktop\fINALCODE\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
